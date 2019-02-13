@@ -1,2 +1,2 @@
 # V2_Tumi
-##Fyrti leikurinn minn
+## Fyrti leikurinn minn
